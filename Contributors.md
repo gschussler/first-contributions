@@ -3225,8 +3225,8 @@
 - [shannon harrison]()
 - [Tewogbade Bamidele](https://github.com/bamideletewogbade)
 - [Alejandro Avalos](https://github.com/ale_avalos240)
-  [Dakshesh  Apkare ](https://github.com/Daksheshapkare)
-  [Clover Edwards](https://github.com/CEdwards05/)
-  [Naomi Pham](https://github.com/baonguyenpham)
-  [gschussler](https://github.com/gschussler)
+- [Dakshesh  Apkare ](https://github.com/Daksheshapkare)
+- [Clover Edwards](https://github.com/CEdwards05/)
+- [Naomi Pham](https://github.com/baonguyenpham)
+- [gschussler](https://github.com/gschussler)
 <!-- prettier-ignore-end -->
